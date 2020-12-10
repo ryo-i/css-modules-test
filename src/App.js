@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import cssTest from './test.module.css';
+import sassTest from './test.module.scss';
 
 function App() {
   return (
@@ -17,6 +19,9 @@ function App() {
         >
           Learn React
         </a>
+        <p className={cssTest.text}>これはテストですと。</p>
+        <p className={sassTest.text}>これはSassのテストですと。</p>
+
       </header>
     </div>
   );
