@@ -2,7 +2,7 @@
 
 参考記事
 
-※参考：【React】CSS ModulesでCSSとSass(SCSS)のローカルスコープを作る
+※参考：[【React】CSS ModulesでCSSとSass(SCSS)のローカルスコープを作る](https://www.i-ryo.com/entry/2020/12/11/065700)
 
 Reactまとめ
 
